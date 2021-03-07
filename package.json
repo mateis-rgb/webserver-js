@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/mateis-rgb/webserver-js/issues"
   },
-  "homepage": "https://github.com/mateis-rgb/webserver-js#readme",
-  "dependences: {
-    "http": "^0.0.1-security"
-  }
+  "homepage": "https://github.com/mateis-rgb/webserver-js#readme"
 }
