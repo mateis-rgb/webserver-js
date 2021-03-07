@@ -1,0 +1,19 @@
+{
+  "name": "webserver-js",
+  "version": "1.0.0",
+  "description": "Javascript WebServer with routes",
+  "main": "server-js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateis-rgb/webserver-js.git"
+  },
+  "author": "Mateis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateis-rgb/webserver-js/issues"
+  },
+  "homepage": "https://github.com/mateis-rgb/webserver-js#readme"
+}
