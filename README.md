@@ -7,5 +7,5 @@ To run WebServer
 <pre>
 git clone https://github.com/mateis-rgb/webserver-js.git
 npm i
-npm run start
+npm start
 </pre>
