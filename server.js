@@ -37,6 +37,6 @@ try {
         console.log(`Server is running on http://${host}:${port} \n\n`)
     })
 }
-catch {
+catch (err) {
     if (err) throw err
 }
