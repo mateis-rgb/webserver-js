@@ -3,7 +3,7 @@ try {
     const fs = require('fs').promises
     
     const host = "localhost"
-    const port = 8080
+    const port = process.env.PORT || 8080
     
     function end(path, res) {
         var route = fs.readFile(__dirname + path)
